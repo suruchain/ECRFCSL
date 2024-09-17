@@ -1,0 +1,13 @@
+processed 121321 tokens with 13378 phrases; found: 9521 phrases; correct: 6805.
+accuracy:  54.52%; (non-O)
+accuracy:  83.90%; precision:  71.47%; recall:  50.87%; FB1:  59.43
+             BODY: precision:  68.23%; recall:  56.92%; FB1:  62.07  4435
+             CHEM: precision:  70.77%; recall:  48.46%; FB1:  57.53  1177
+             DISE: precision:  77.45%; recall:  56.34%; FB1:  65.23  1898
+             DRUG: precision:  65.65%; recall:  31.39%; FB1:  42.48  230
+             EXAM: precision:  56.25%; recall:  30.43%; FB1:  39.50  112
+             INST: precision:  61.22%; recall:  12.00%; FB1:  20.07  49
+             SUPP: precision:  72.64%; recall:  42.08%; FB1:  53.29  106
+             SYMP: precision:  79.14%; recall:  45.61%; FB1:  57.87  1122
+             TIME: precision:  68.37%; recall:  33.84%; FB1:  45.27  98
+            TREAT: precision:  68.03%; recall:  42.74%; FB1:  52.49  294
